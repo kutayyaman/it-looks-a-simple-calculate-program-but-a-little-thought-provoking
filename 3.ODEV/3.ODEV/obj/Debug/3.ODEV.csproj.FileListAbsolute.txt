@@ -1,0 +1,30 @@
+C:\Users\kutay yaman\source\repos\3.ODEV\3.ODEV\bin\Debug\3.ODEV.exe.config
+C:\Users\kutay yaman\source\repos\3.ODEV\3.ODEV\bin\Debug\3.ODEV.exe
+C:\Users\kutay yaman\source\repos\3.ODEV\3.ODEV\bin\Debug\3.ODEV.pdb
+C:\Users\kutay yaman\source\repos\3.ODEV\3.ODEV\obj\Debug\3.ODEV.csprojAssemblyReference.cache
+C:\Users\kutay yaman\source\repos\3.ODEV\3.ODEV\obj\Debug\_3.ODEV.Form1.resources
+C:\Users\kutay yaman\source\repos\3.ODEV\3.ODEV\obj\Debug\_3.ODEV.Properties.Resources.resources
+C:\Users\kutay yaman\source\repos\3.ODEV\3.ODEV\obj\Debug\3.ODEV.csproj.GenerateResource.cache
+C:\Users\kutay yaman\source\repos\3.ODEV\3.ODEV\obj\Debug\3.ODEV.csproj.CoreCompileInputs.cache
+C:\Users\kutay yaman\source\repos\3.ODEV\3.ODEV\obj\Debug\3.ODEV.exe
+C:\Users\kutay yaman\source\repos\3.ODEV\3.ODEV\obj\Debug\3.ODEV.pdb
+C:\Users\kutay yaman\Desktop\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\bin\Debug\3.ODEV.exe.config
+C:\Users\kutay yaman\Desktop\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\bin\Debug\3.ODEV.exe
+C:\Users\kutay yaman\Desktop\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\bin\Debug\3.ODEV.pdb
+C:\Users\kutay yaman\Desktop\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\3.ODEV.csprojAssemblyReference.cache
+C:\Users\kutay yaman\Desktop\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\_3.ODEV.Form1.resources
+C:\Users\kutay yaman\Desktop\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\_3.ODEV.Properties.Resources.resources
+C:\Users\kutay yaman\Desktop\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\3.ODEV.csproj.GenerateResource.cache
+C:\Users\kutay yaman\Desktop\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\3.ODEV.csproj.CoreCompileInputs.cache
+C:\Users\kutay yaman\Desktop\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\3.ODEV.exe
+C:\Users\kutay yaman\Desktop\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\3.ODEV.pdb
+C:\Users\kutay yaman\Desktop\Yeni klasör (2)\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\bin\Debug\3.ODEV.exe.config
+C:\Users\kutay yaman\Desktop\Yeni klasör (2)\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\bin\Debug\3.ODEV.exe
+C:\Users\kutay yaman\Desktop\Yeni klasör (2)\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\bin\Debug\3.ODEV.pdb
+C:\Users\kutay yaman\Desktop\Yeni klasör (2)\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\3.ODEV.csprojAssemblyReference.cache
+C:\Users\kutay yaman\Desktop\Yeni klasör (2)\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\_3.ODEV.Form1.resources
+C:\Users\kutay yaman\Desktop\Yeni klasör (2)\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\_3.ODEV.Properties.Resources.resources
+C:\Users\kutay yaman\Desktop\Yeni klasör (2)\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\3.ODEV.csproj.GenerateResource.cache
+C:\Users\kutay yaman\Desktop\Yeni klasör (2)\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\3.ODEV.csproj.CoreCompileInputs.cache
+C:\Users\kutay yaman\Desktop\Yeni klasör (2)\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\3.ODEV.exe
+C:\Users\kutay yaman\Desktop\Yeni klasör (2)\B171210074 KUTAY YAMAN 3.ODEV 1.OGRETIM D GR\3.ODEV\3.ODEV\obj\Debug\3.ODEV.pdb
