@@ -12,18 +12,7 @@ using System.Windows.Forms;
 
 
 
-/****************************************************************************
-**					SAKARYA ÜNİVERSİTESİ
-**				BİLGİSAYAR VE BİLİŞİM BİLİMLERİ FAKÜLTESİ
-**				    BİLGİSAYAR MÜHENDİSLİĞİ BÖLÜMÜ
-**				   NESNEYE DAYALI PROGRAMLAMA DERSİ
-**					2018-2019 BAHAR DÖNEMİ
-**	
-**				ÖDEV NUMARASI..........: 3
-**				ÖĞRENCİ ADI............: KUTAY YAMAN
-**				ÖĞRENCİ NUMARASI.......: B171210074
-**                         DERSİN ALINDIĞI GRUP...: D
-****************************************************************************/
+
 namespace _3.ODEV
 {
     public partial class Form1 : Form
